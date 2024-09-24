@@ -1,3 +1,9 @@
-This is a sample README.md file. Please edit according to the instructions.
+David Ebede 30269925
 
-Thanks :D
+Htike Htike Htoo 30264454
+
+May Thinzar Khine 30265715
+
+Su Mun Thet 30265111
+
+This Lab Assignment is about Student Grade Management System which will be completed by L12.
